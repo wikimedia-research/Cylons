@@ -14,7 +14,6 @@ Top Zero-Result Queries
 >  *"ou as I can get tonight without being detected, and Tuck and Clay will be there too, along with an undercover team. You’ll have an earpiece no one will be able to see, so we"*
 
 (Tuck and Clay have refused to answer press questions as to their involvement in our API usage and have referred us to their attorneys)
-Slide With Plot
 
 Pattern the first: TIMESTAMPS
 ========================================================
