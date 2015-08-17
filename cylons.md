@@ -37,27 +37,27 @@ Pattern the third: TRAVELLING SALESMEN
 * "Sheep" AND "Nativity of Jesus in art"
 
 ========================================================
-<img src="wut_cat.jpg" width="100%" style="width:100%">
+<img src="wut_cat.jpg" style="width:100%;">
 
 Timestamps
 ========================================================
 
-<img src="dan_headshot.jpg" width="100%" style="width:100%">
+<img src="dan_headshot.jpg" style="height:580px; width:auto;">
 
 Cinefiles
 ========================================================
 
-<img src="pirates.jpg" width="100%" style="width:100%">
+<img src="pirates.jpg" style="height:580px; width:auto;">
 
 Travelling salesmen
 ========================================================
 
-<img src="toaster.jpg" width="100%" style="width:100%">
+<img src="toaster.jpg" style="height:580px; width:auto;">
 
 Questions?
 ========================================================
 
-<img src="cera_toaster.jpg" width="100%" style="width:100%">
+<img src="cera_toaster.jpg" style="height:580px; width:auto;">
 
 Credits
 ========================================================
